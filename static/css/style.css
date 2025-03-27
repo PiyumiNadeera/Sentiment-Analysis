@@ -1,0 +1,11 @@
+.pageTitle{
+    text-align: center;
+}
+
+.productImg{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
