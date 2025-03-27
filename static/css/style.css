@@ -3,10 +3,9 @@
 }
 
 .productImg{
-    height: 400px;
-    width: 500px;
-    margin: 20px;
+    margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 80vh;
 }
